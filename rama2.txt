@@ -1,1 +1,2 @@
 Archivo de rama2
+Cambio remoto en rama2
